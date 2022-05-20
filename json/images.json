@@ -1,0 +1,14 @@
+{
+    "Images": 
+    [ 
+        {"URL":"img/01.jpg", "Caption": "Salmon"},
+        {"URL":"img/02.jpg", "Caption": "Burger"},
+        {"URL":"img/03.jpg", "Caption": "Steak"},
+        {"URL":"img/04.jpg", "Caption": "Pizza"},
+        {"URL":"img/05.jpg", "Caption": "Taco"},
+        {"URL":"img/06.jpg", "Caption": "Kebabs"},
+        {"URL":"img/07.jpg", "Caption": "Burrito"},
+        {"URL":"img/08.jpg", "Caption": "Baklava"},
+        {"URL":"img/09.jpg", "Caption": "Kunefe"}
+    ]
+}
